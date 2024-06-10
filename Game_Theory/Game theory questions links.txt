@@ -1,4 +1,4 @@
-http://www.spoj.com/problems/QCJ3/
+http://www.spoj.com/problems/QCJ3/ (solved)
 http://www.spoj.com/problems/MMMGAME/
 https://www.hackerrank.com/challenges/game-of-stones-1/problem
 http://www.spoj.com/problems/RESN04
@@ -17,3 +17,22 @@ http://www.spoj.com/problems/BOMBER/
 http://www.codechef.com/problems/CHEFBRO/
 http://www.codeforces.com/contest/256/problem/C
 https://www.codechef.com/problems/BULLETS
+
+Codeblocks/Hackerblocks -> https://hack.codingblocks.com/app/practice/1?tags=%5B15%5D
+
+//codechef starters 123 
+//Problem Code -> YETALICEBOB
+//Codechef Discuss ->https://discuss.codechef.com/t/yetalicebob-editorial/116390/4
+
+
+//Atcoder Problem : https://atcoder.jp/contests/abc297/tasks/abc297_g
+//Editorial : https://atcoder.jp/contests/abc297/editorial/6205
+
+In the Above problem, grundy no's formula --> (num%(l+r))/l 😮
+
+//Atcoder Problem : https://atcoder.jp/contests/abc255/tasks/abc255_g
+//Editorial : https://atcoder.jp/contests/abc255/editorial/4116 (About Grundy Numbers)
+
+Cp-Algo: https://cp-algorithms.com/game_theory/sprague-grundy-nim.html#:~:text=To%20calculate%20the%20Grundy%20value,game%20and%20xor%2Dsum%20them.
+
+Codeforces Blog : https://codeforces.com/blog/entry/85984

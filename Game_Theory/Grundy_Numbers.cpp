@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//new trick:
+//Atcoder Problem : https://atcoder.jp/contests/abc297/tasks/abc297_g
+//Editorial : https://atcoder.jp/contests/abc297/editorial/6205
+// Grundy Formula : (num%(l+r))/l 😮
+
 int calculateMex(unordered_set<int> Set){
     int Mex = 0;
     while(Set.find(Mex) != Set.end()){
