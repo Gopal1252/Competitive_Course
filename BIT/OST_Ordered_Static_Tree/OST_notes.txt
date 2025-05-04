@@ -1,0 +1,17 @@
+What is an Order Statistic Tree?
+
+An OST allows you to:
+1) Insert an element.
+2) Delete an element.
+3) Find the k-th smallest element.
+4) Find the rank of an element (i.e., how many elements ≤ that value).
+
+Can we do this with BIT?
+
+Yes, if:
+1) The values inserted are positive integers within a reasonable range (like ≤ 10⁶).
+2) If not, we can use coordinate compression.
+
+We treat the BIT like a frequency array, where:
+1) BIT[i] = number of times value i has been inserted.
+2) The prefix_sum(i) = count of all numbers ≤ i.
